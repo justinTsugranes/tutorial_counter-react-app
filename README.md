@@ -1,8 +1,10 @@
 # React Tutorial Follow Along
 
-This is the project from Mosh Hamedani's youtube video: https://youtu.be/Ke90Tje7VS0
+This is the project from Mosh Hamedani's youtube video. [Check it out!](https://youtu.be/Ke90Tje7VS0)
 
 In this project, we use React.js, Bootstrap, and VSCode to create a web app that resembles an online shopping cart
+
+[image]: https://github.com/justinTsugranes/counter-app/blob/main/Screen%20Shot%202022-07-29%20at%208.55.27%20AM.jpg "shopping-cart"
 
 TABLE OF CONTENTS FROM THE PROJECT VIDEO
 
