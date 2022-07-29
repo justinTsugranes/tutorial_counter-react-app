@@ -4,7 +4,7 @@ This is the project from Mosh Hamedani's youtube video. [Check it out!](https://
 
 In this project, we use React.js, Bootstrap, and VSCode to create a web app that resembles an online shopping cart
 
-[image]: https://github.com/justinTsugranes/counter-app/blob/main/Screen%20Shot%202022-07-29%20at%208.55.27%20AM.jpg "shopping-cart"
+<img src="https://github.com/justinTsugranes/counter-app/blob/main/Screen%20Shot%202022-07-29%20at%208.55.27%20AM.jpg" alt="shopping-cart" width="200px">
 
 TABLE OF CONTENTS FROM THE PROJECT VIDEO
 
